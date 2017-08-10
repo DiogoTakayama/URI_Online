@@ -8,14 +8,14 @@
 
 int main()
 {
-	int A, B, X;               // Declares the variables.
+	int A, B, X;               
 	
-	scanf("%d", &A);           // Reads the variables.
+	scanf("%d", &A);           
 	scanf("%d", &B);
 	
-	X = A + B;                 // Operates the sum of the variables.
+	X = A + B;                 
 	
-	printf("X = %d\n", X);     // Prints the result of the summation on the screen.
+	printf("X = %d\n", X);     
 	
 	return 0;
 }
